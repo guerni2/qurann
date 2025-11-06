@@ -1,16 +1,27 @@
-# qurann
+# QURANN - تطبيق قرآني احترافي
 
-A new Flutter project.
+تطبيق قرآني متقدم مع مميزات رائعة!
 
-## Getting Started
+## المميزات
 
-This project is a starting point for a Flutter application.
+✅ قراءة القرآن الكريم كاملاً (114 سورة)
+✅ شريط بحث متقدم
+✅ معلومات كل سورة
+✅ تصميم احترافي جميل
+✅ واجهة سهلة الاستخدام
+✅ بدون إعلانات
+✅ مجاني تماماً
 
-A few resources to get you started if this is your first Flutter project:
+## التطوير
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter
+- **Language:** Dart
+- **State Management:** StatefulWidget
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## البناء
+
+```bash
+
+flutter pub get
+
+flutter run
